@@ -13,7 +13,7 @@ Also, documentation with all the details about project is provided in the reposi
 - [Hajrudin Vejzović](https://github.com/hajrudinvejzovic) 
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hajrudin-vejzovi%C4%87-9454a3240/)
-- [Amna Ganić]
+- [Amna Ganić](https://github.com/ganicamna)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amnaganic07734/)
 
