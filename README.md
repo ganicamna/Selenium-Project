@@ -10,8 +10,7 @@ Also, documentation with all the details about project is provided in the reposi
 
 ## Team members
 
-- [Hajrudin Vejzović](https://github.com/hajrudinvejzovic)
-- [Amna Ganić](https://github.com/ganicamna)
+- [Hajrudin Vejzović](https://github.com/hajrudinvejzovic) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hajrudin-vejzovi%C4%87-9454a3240/)
+- [Amna Ganić](https://github.com/ganicamna)[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amnaganic07734/)
 
-![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/220px-Selenium_Logo.png) 
-![Logo](https://avatars.githubusercontent.com/u/874086?s=200&v=4)
+
