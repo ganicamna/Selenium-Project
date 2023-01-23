@@ -6,7 +6,7 @@ The project was done as a part of the **IT 303 -  Software Verification, Validat
 Selenium is an open-source framework for automating web browsers. It allows users to write scripts in multiple programming languages to interact with web browsers, simulating user actions such as clicking buttons and filling out forms. JUnit is a widely used testing framework for Java applications. It allows developers to write repeatable, automated tests for their code. Together, Selenium and JUnit can be used to automate the testing of web applications, by using Selenium to simulate user actions on the front-end, and JUnit to write tests for the back-end.
 
 ## Documentation
-Also, documentation with all the details about project is provided in the repository, and here is the link to it.
+Also, documentation with all the details about project is provided in the repository, and here is the [link](https://github.com/ganicamna/selenium_project/blob/main/eSky%20in%20Selenium%20Documentation.pdf) to it.
 
 ## Team members
 
